@@ -1,0 +1,14 @@
+.article {
+  padding: 50px;
+  column-count: 2;
+}
+
+h3 {
+  text-align: left;
+  font-size: 30px;
+}
+
+p {
+  text-align: left;
+  font-size: 17px;
+}

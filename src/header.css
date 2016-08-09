@@ -1,0 +1,21 @@
+@import 'https://fonts.googleapis.com/css?family=Oswald';
+
+h1 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 60px;
+  text-transform: uppercase;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+h2 {
+  font-size: 30px;
+  font-family: 'Oswald', sans-serif;
+  text-transform: uppercase;
+}
+
+.head {
+  background-image: url("/images/bg-photo.jpg");
+  color: #d3d3d3;
+  padding: 20px;
+}
